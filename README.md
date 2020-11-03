@@ -15,7 +15,15 @@
 
 
 
+**Languages and Tools:** &nbsp;
 
+<code><img height="15" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg"></code>
+
+<code><img height="15" src="https://hibernate.org/images/hibernate-logo.svg"></code>
+
+<code><img height="15" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></code>
+
+<code><img height="15" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></code>
 
 
 
