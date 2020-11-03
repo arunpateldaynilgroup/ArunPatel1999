@@ -17,13 +17,13 @@
 
 **Languages and Tools:** &nbsp;
 
-<div><img height="15" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg">
+[<img height="15" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg">]
 
-<img height="15" src="https://hibernate.org/images/hibernate-logo.svg">
+[<img height="15" src="https://hibernate.org/images/hibernate-logo.svg">]
 
-<img height="15" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+[<img height="15" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">]
 
-<img height="15" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"></div>
+[<img height="15" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">]
 
 
 
