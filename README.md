@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on movie-app
 - 🌱 I’m currently learning Spring Boot native 
 - 👯 I’m looking to collaborate on TCS
-- 🤔 I’m looking for help with react
+- 🤔 I’m looking for help with Java
 - 💬 Ask me about tech
 - ⚡ Fun fact: 😴😴😴😴😴
 ### Connect with me:
