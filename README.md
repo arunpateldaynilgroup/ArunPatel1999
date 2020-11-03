@@ -10,13 +10,18 @@
 
 [<img align="left" alt="Arun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Arun| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<a href="https://www.facebook.com/profile.php?id=100008345472267">
-
-  <img align="left" alt="Ohidur Rahman Bappy's Facebook" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-
-</a>
+[<img align="left" alt="Arun| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br />
+
+
+
+
+
+
+
+
 <br />
+
 
 <img width=100% src="https://github-profile-trophy.vercel.app/?username=ArunPatel1999&column=7"/>
 
@@ -30,3 +35,6 @@
 
 [instagram]: https://www.instagram.com/eager_arun/
 [linkedin]: https://www.linkedin.com/in/arun-patel
+[facebook]: https://www.facebook.com/profile.php?id=100008345472267
+
+
