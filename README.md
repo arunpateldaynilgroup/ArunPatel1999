@@ -20,7 +20,7 @@
 <img align="left" alt="Spring" width="40px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <br />
-
+<br/>
 ![](https://komarev.com/ghpvc/?username=ArunPatel1999)
 
 
