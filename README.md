@@ -15,10 +15,10 @@
 
 ### Languages and Tools:** &nbsp;
 
-[<img align="left" alt="Java" width="22px" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" />][java]
-[<img align="left" alt="Hibernate" width="22px" src="https://hibernate.org/images/hibernate-logo.svg" />][hibernate]
-[<img align="left" alt="Spring" width="22px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />][spring]
-[<img align="left" alt="MySQL" width="22px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />][mysql]
+[<img align="left" alt="Java" width="22px" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" />]
+[<img align="left" alt="Hibernate" width="22px" src="https://hibernate.org/images/hibernate-logo.svg" />]
+[<img align="left" alt="Spring" width="22px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />]
+[<img align="left" alt="MySQL" width="22px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />]
 <br />
 
 
@@ -39,9 +39,9 @@
 [linkedin]: https://www.linkedin.com/in/arun-patel
 [facebook]: https://www.facebook.com/profile.php?id=100008345472267
 
-[java]:
-[hibernate]:
-[spring]:
-[mysql]:
+
+
+
+
 
 
