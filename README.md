@@ -16,7 +16,7 @@
 <img align="left" alt="Java" width="70px" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" />
 <img align="left" alt="Hibernate" width="70px" src="https://iconape.com/wp-content/files/qy/67154/png/hibernate-1.png" />
 <img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" />
-<img align="left" alt="ProjectReacter" width="70px" src="https://tutsnode.com/wp-content/uploads/2021/05/Reactive-Programming-in-Modern-Java-using-Project-Reactor.jpg" />
+<img align="left" alt="ProjectReacter" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTseJePmX3RyWPJXAHoQMKHg_VENs2fNAcTxQ&usqp=CAU" />
 
 <img align="left" alt="Angular" width="70px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
 <img align="left" alt="MySql" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
