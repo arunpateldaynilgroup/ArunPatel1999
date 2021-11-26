@@ -25,7 +25,7 @@
 
 
 
-<img width="100px" src="https://github-profile-trophy.vercel.app/?username=ArunPatel1999&column=7"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ArunPatel1999&column=7"/>
 
 
 
