@@ -14,7 +14,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="70px" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" />
-<img align="left" alt="Hibernate" width="70px" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" />
+<img align="left" alt="Hibernate" width="70px" src="https://cdn.worldvectorlogo.com/logos/hibernate-1.svg" />
 <img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" />
 <img align="left" alt="MySQL" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <br />
