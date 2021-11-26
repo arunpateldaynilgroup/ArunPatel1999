@@ -23,8 +23,8 @@
 <img align="left" alt="MongoDB" width="70px" src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo-500x313.png" />
 
 ![](https://komarev.com/ghpvc/?username=ArunPatel1999)
-<br />
-<br/>
+<br>
+<br>
 
 
 
