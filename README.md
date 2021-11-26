@@ -1,7 +1,7 @@
 ### Hey there,I'm Arun Patel 👋😎
 
 - 🔭 I’m currently working on movie-app
-- 🌱 I’m currently learning Spring Boot Microservices
+- 🌱 I’m currently learning Spring Boot Microservices & Angular
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with Java
 - 💬 Ask me about tech [here](https://github.com/ArunPatel1999/ArunPatel1999/issues)
