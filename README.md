@@ -18,10 +18,10 @@
 <img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" />
 <img align="left" alt="MySQL" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 
+![](https://komarev.com/ghpvc/?username=ArunPatel1999)
 <br />
 <br/>
 
-![](https://komarev.com/ghpvc/?username=ArunPatel1999)
 
 
 
