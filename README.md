@@ -1,6 +1,6 @@
 ### Hey there,I'm Arun Patel 👋😎
 
-- 🔭 I’m currently working on movie-app
+- 🔭 I'm planning to create mobile device tracking app.
 - 🌱 I’m currently learning Spring Boot Microservices & Angular
 - 👯 I’m looking to collaborate 
 - 🤔 I’m looking for help with Java
