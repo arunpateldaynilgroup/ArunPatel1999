@@ -15,7 +15,7 @@
 
 <img align="left" alt="Java" width="70px" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" />
 <img align="left" alt="Hibernate" width="70px" src="https://hibernate.org/images/hibernate-logo.svg" />
-<img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
+<img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg" />
 <img align="left" alt="MySQL" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
 <br />
 <br/>
