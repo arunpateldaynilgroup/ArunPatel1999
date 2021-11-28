@@ -9,8 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Arun | LinkedIn" width="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
+[![GitHub Bhai4You](https://img.shields.io/github/followers/ArunPatel1999?label=follow&style=social)](https://github.com/ArunPatel1999)
 <br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="70px" src="https://www.sonarqube.org/features/multi-languages/index/java-color.svg" />
@@ -28,29 +28,17 @@
 <br>
 
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Bhai4You&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhai4You&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
-</div>
-
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ArunPatel1999&column=7"/>
 
+<div>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=ArunPatel1999&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPatel1999&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 
-[![Arun's github stats](https://github-readme-stats.vercel.app/api?username=ArunPatel1999&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
->
-[![Top Language use by Arun](https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPatel1999)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+</div>
 
 
 [linkedin]: https://www.linkedin.com/in/arun-patel
-
-
-
-
-
-
 
