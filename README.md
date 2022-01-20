@@ -33,10 +33,12 @@
 
 <div>
 
- <img src="https://github-readme-stats.vercel.app/api?username=ArunPatel1999&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats"/>
-  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArunPatel1999&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArunPatel1999&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" alt="ArunPatel1999" />
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArunPatel1999&show_icons=true&locale=en&layout=compact&title_color=fff&text_color=fff&bg_color=151515" alt="ArunPatel1999"/>
+
+ <p align="Left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ArunPatel1999&theme=highcontrast" alt="ArunPatel1999" /></p>
+ 
 </div>
 
 
